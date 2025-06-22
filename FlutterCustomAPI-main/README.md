@@ -2,11 +2,6 @@
 
 A cross-platform Flutter application connected with a custom backend API for data management.
 
-## Author
-
-Foam-01
-
-
 ## Project Structure
 
 ### Flutter App
